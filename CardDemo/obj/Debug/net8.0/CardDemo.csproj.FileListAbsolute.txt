@@ -1,0 +1,14 @@
+C:\Users\williamd\Downloads\CardDemo\CardDemo\CardDemo\bin\Debug\net8.0\CardDemo.exe
+C:\Users\williamd\Downloads\CardDemo\CardDemo\CardDemo\bin\Debug\net8.0\CardDemo.deps.json
+C:\Users\williamd\Downloads\CardDemo\CardDemo\CardDemo\bin\Debug\net8.0\CardDemo.runtimeconfig.json
+C:\Users\williamd\Downloads\CardDemo\CardDemo\CardDemo\bin\Debug\net8.0\CardDemo.dll
+C:\Users\williamd\Downloads\CardDemo\CardDemo\CardDemo\bin\Debug\net8.0\CardDemo.pdb
+C:\Users\williamd\Downloads\CardDemo\CardDemo\CardDemo\obj\Debug\net8.0\CardDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\williamd\Downloads\CardDemo\CardDemo\CardDemo\obj\Debug\net8.0\CardDemo.AssemblyInfoInputs.cache
+C:\Users\williamd\Downloads\CardDemo\CardDemo\CardDemo\obj\Debug\net8.0\CardDemo.AssemblyInfo.cs
+C:\Users\williamd\Downloads\CardDemo\CardDemo\CardDemo\obj\Debug\net8.0\CardDemo.csproj.CoreCompileInputs.cache
+C:\Users\williamd\Downloads\CardDemo\CardDemo\CardDemo\obj\Debug\net8.0\CardDemo.dll
+C:\Users\williamd\Downloads\CardDemo\CardDemo\CardDemo\obj\Debug\net8.0\refint\CardDemo.dll
+C:\Users\williamd\Downloads\CardDemo\CardDemo\CardDemo\obj\Debug\net8.0\CardDemo.pdb
+C:\Users\williamd\Downloads\CardDemo\CardDemo\CardDemo\obj\Debug\net8.0\CardDemo.genruntimeconfig.cache
+C:\Users\williamd\Downloads\CardDemo\CardDemo\CardDemo\obj\Debug\net8.0\ref\CardDemo.dll
