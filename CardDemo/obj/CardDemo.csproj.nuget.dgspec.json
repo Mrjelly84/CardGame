@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\williamd\\Downloads\\CardDemo\\CardDemo\\CardDemo\\CardDemo.csproj": {}
+    "C:\\Users\\willi\\source\\repos\\Mrjelly84\\CardGame\\CardDemo\\CardDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\williamd\\Downloads\\CardDemo\\CardDemo\\CardDemo\\CardDemo.csproj": {
+    "C:\\Users\\willi\\source\\repos\\Mrjelly84\\CardGame\\CardDemo\\CardDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\williamd\\Downloads\\CardDemo\\CardDemo\\CardDemo\\CardDemo.csproj",
+        "projectUniqueName": "C:\\Users\\willi\\source\\repos\\Mrjelly84\\CardGame\\CardDemo\\CardDemo.csproj",
         "projectName": "CardDemo",
-        "projectPath": "C:\\Users\\williamd\\Downloads\\CardDemo\\CardDemo\\CardDemo\\CardDemo.csproj",
-        "packagesPath": "C:\\Users\\williamd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\williamd\\Downloads\\CardDemo\\CardDemo\\CardDemo\\obj\\",
+        "projectPath": "C:\\Users\\willi\\source\\repos\\Mrjelly84\\CardGame\\CardDemo\\CardDemo.csproj",
+        "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\willi\\source\\repos\\Mrjelly84\\CardGame\\CardDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\williamd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
